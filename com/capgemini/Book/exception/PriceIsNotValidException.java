@@ -1,4 +1,4 @@
-package com.capgemini.Book;
+package com.capgemini.Book.exception;
 
 @SuppressWarnings("serial")
 public class PriceIsNotValidException extends Exception {
